@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "743945385584",
+    "firebase_url": "https://arch-nemesis.firebaseio.com",
+    "project_id": "arch-nemesis",
+    "storage_bucket": "arch-nemesis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743945385584:android:13a0130ea686c706",
+        "android_client_info": {
+          "package_name": "org.sbs.archchronos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743945385584-50i74pnu8sva3i881rscd2a3r59qd0bv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.sbs.archchronos",
+            "certificate_hash": "ee81f0fd096221710176e48ebf27847250d8cb7f"
+          }
+        },
+        {
+          "client_id": "743945385584-i75fu2ngj9vdb7jdq1k1ch888aeecuev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.sbs.archchronos",
+            "certificate_hash": "aaa81e70607d3ea0a05ab0a231032dcd97d987e8"
+          }
+        },
+        {
+          "client_id": "743945385584-40p86294tcd3dbjgrevt64bfpjkrocsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.sbs.archchronos",
+            "certificate_hash": "a87b8c7cd23bcc65b49ac9f03718ef161b299256"
+          }
+        },
+        {
+          "client_id": "743945385584-ghr15b149fjue0o8qp66dh8a6i0ks6af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6k2KxM4bz3VNZLkmRB8L3_ET4lvYc0r8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743945385584-ghr15b149fjue0o8qp66dh8a6i0ks6af.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "743945385584-53a1i9ai6ir3rgg5v0gm83s86ivsl8b6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.sbs.googleauthtest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
